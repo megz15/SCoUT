@@ -2,6 +2,8 @@
 Scout Code Using Tuples (SCoUT) - A school project
 ## About project
 Made for a school project (we had to make anything mainly using tuples). Used PySimpleGUI for displaying graphical interface.
+## Image
+![ScoUT](res/ss1.png)
 ## REQUIREMENTS:
 1. [Python 3](https://www.python.org/downloads/): I use 3.8.6
 2. [PySimpleGUI](https://pysimplegui.readthedocs.io/): Python library for GUI development. Install it using ```pip install pysimplegui``` in Command Prompt.
